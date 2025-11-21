@@ -13,4 +13,4 @@ This project offers the official implementation of the segment-based light trans
 
 ## Code Release
 
-The code will be made available soon. Please stay tuned for updates.
+**I am currently busy with ongoing work and, for now, can’t provide a timeline for releasing the full codebase. That said, making the code available is still something I intend to do when circumstances allow.** Please stay tuned for updates.
